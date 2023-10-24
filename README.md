@@ -1,3 +1,3 @@
-this is our ptintf project
+this is our printf project
 Isra Hatim
 Noon Hatim
